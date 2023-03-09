@@ -1,2 +1,2 @@
-# fullstackopen
-Submission repository for Full Stack Open exercises from the University of Helsincki
+# Full Stack Open Course Exercises
+Submission repository for Full Stack Open exercises from the University of Helsinki
